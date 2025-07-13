@@ -21,6 +21,7 @@ close: Closing price for the minute
 volume: Number of shares traded during the minute.
 ## **Visualizations**
 > https://public.tableau.com/app/profile/ivan.dimitrov/viz/NvidiaStockPrices-MinuteLevelData2024-2025/NVDA_Stock_Price_Analysis
+
 > All the visualizations are in the Project Folder "Visualisations".
 ## **Tools and Skills used in the Project**
 > Python, Jupyter, Jupyter Notebook, Anaconda Navigator, Microsoft Excel, Tableau, Spotting trends, Data cleaning and manipulation, Derivation of meaningful insights.
